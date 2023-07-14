@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kateryna Avetisyan
+- 👋 Hi, I’m Kate
 - 🌱 I’m currently learning JavaScript
 - 📫 katerynaavetisyan@gmail.com
 
