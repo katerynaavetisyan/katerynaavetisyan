@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kate
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m always learning to get better
 - 📫 katerynaavetisyan@gmail.com
 - 💬 Brainstorm with me over tech, algorithms, and career
 - ❤️ Besides programming, I have an immense interest in traveling.
