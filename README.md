@@ -3,7 +3,8 @@
 - 📫 katerynaavetisyan@gmail.com
 - 💬 Brainstorm with me over tech, algorithms, and career
 - ❤️ Besides programming, I have an immense interest in traveling.
--  ⚒️ JavaScript / HTML / CSS 
+-  ⚒️ JavaScript / HTML / CSS
+-  💻  Connect with me on LinkedIn
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 <!---
