@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Kate
 - 🌱 I’m always learning to get better
-- 📫 katerynaavetisyan@gmail.com
 - 💬 Brainstorm with me over tech, algorithms, and career
 - ❤️ Besides programming, I have an immense interest in traveling.
 -  ⚒️ JavaScript / HTML / CSS
 -  💻  Connect with me on LinkedIn
+-  📫 katerynaavetisyan@gmail.com
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 <!---
