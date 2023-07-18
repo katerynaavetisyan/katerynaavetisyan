@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kate
+- 👋 Hi, I’m Kateryna Avetisyan
 - 🌱 I’m always learning to get better
 - 💬 Brainstorm with me over tech, algorithms, and career
 - ❤️ Besides programming, I have an immense interest in traveling.
