@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kateryna Avetisyan
+- 👋 Hi, I'm a passionate Front-End Developer 
 - 🌱 I’m always learning to get better
 - 💬 Brainstorm over tech, algorithms, and career
 - ❤️ Besides programming, I have an immense interest in traveling.
