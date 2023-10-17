@@ -1,7 +1,6 @@
 - 👋 Hi, I'm a passionate Front-End Developer 
-- 🌱 I’m always learning to get better
-- 💬 Brainstorm tech and algorithms
-- ❤️ Programming and traveling
+- 🌱 I’m always learning 
+- 💬 Brainstorm tech and algorithms 
 -  ⚒️ JavaScript / HTML / CSS
 -  💻  Connect with me here -> https://www.linkedin.com/in/kateryna-avetisyan-043325198/
 -  📫 katerynaavetisyan@gmail.com
